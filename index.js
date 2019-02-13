@@ -1,4 +1,4 @@
 var Texto =  'Hola';
-
-console.log("Hola");
+const num = 21;
+console.log(Texto);
 
